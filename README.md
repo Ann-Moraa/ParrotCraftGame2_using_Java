@@ -11,6 +11,7 @@ This is a modification of the first ParrotCraft Game
 *Additionally, the user is always free to leave the game.
 
 OUTPUT
+![Output1 1 1](https://user-images.githubusercontent.com/61025304/215763710-63f6672d-cb9d-4d09-bcf0-d624b23749f9.JPG)
 
 ![Output1 1 3](https://user-images.githubusercontent.com/61025304/215763318-8420c146-cb56-4107-a521-a362c204d756.JPG)
 
